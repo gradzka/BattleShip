@@ -52,4 +52,5 @@ Attributions
 - https://msdn.microsoft.com/pl-pl/library/fx6588te(v=vs.110).aspx,
 - https://msdn.microsoft.com/en-us/library/kb5kfec7(v=vs.85).aspx,
 - https://pixabay.com/pl/.
-- Thanks for https://github.com/kazimierczak-robert/ for idea and help with unblocking the application GUI :)
+
+Thanks for https://github.com/kazimierczak-robert/ for idea and help with unblocking the application GUI :)
